@@ -41,7 +41,7 @@ dependencies {
     implementation 'com.startapp:inapp-sdk:4.10.5'
     implementation 'com.applovin:applovin-sdk:11.5.5'
     implementation 'com.unity3d.ads:unity-ads:4.4.1'
-    implementation 'com.ironsource.sdk:mediationsdk:7.2.4.1'
+    implementation 'com.ironsource.sdk:mediationsdk:7.2.5'
     implementation 'com.facebook.android:audience-network-sdk:6.12.0'
 
     //AdMob mediation
@@ -58,10 +58,10 @@ dependencies {
     implementation 'com.applovin.mediation:facebook-adapter:6.12.0.0'
 
     //ironSource mediation
-    implementation 'com.ironsource.adapters:admobadapter:4.3.29'
-    implementation 'com.ironsource.adapters:applovinadapter:4.3.33'
-    implementation 'com.ironsource.adapters:unityadsadapter:4.3.22'
-    implementation 'com.ironsource.adapters:facebookadapter:4.3.37'
+    implementation 'com.ironsource.adapters:admobadapter:4.3.31'
+    implementation 'com.ironsource.adapters:applovinadapter:4.3.34'
+    implementation 'com.ironsource.adapters:unityadsadapter:4.3.24'
+    implementation 'com.ironsource.adapters:facebookadapter:4.3.38'
 
     //Unity ads mediation
     implementation 'com.unity3d.mediation:mediation-sdk:1.1.0'
