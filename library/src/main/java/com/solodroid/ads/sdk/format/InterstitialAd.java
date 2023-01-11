@@ -878,7 +878,6 @@ public class InterstitialAd {
                             @Override
                             public void onInterstitialFailedShow(com.unity3d.mediation.InterstitialAd interstitialAd, ShowError showError, String s) {
                                 Log.d(TAG, "unity ads show failure");
-                                showBackupInterstitialAd();
                             }
                         };
                         unityInterstitialAd.show(showListener);
